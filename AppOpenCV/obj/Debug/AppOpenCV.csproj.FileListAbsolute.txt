@@ -1,0 +1,59 @@
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\bin\Debug\AppOpenCV.exe.config
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\bin\Debug\AppOpenCV.exe
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\bin\Debug\AppOpenCV.pdb
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.csproj.AssemblyReference.cache
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.Form1.resources
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.Properties.Resources.resources
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.csproj.GenerateResource.cache
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.csproj.CoreCompileInputs.cache
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.exe
+D:\Решетов Глеб\AppOpenCV\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.csproj.AssemblyReference.cache
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.Form1.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.Properties.Resources.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.csproj.GenerateResource.cache
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.csproj.CoreCompileInputs.cache
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.exe
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\obj\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\bin\Debug\AppOpenCV.exe.config
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\bin\Debug\AppOpenCV.exe
+C:\Users\IT-1\Desktop\ВячеславЗ\AppOpenCV\AppOpenCV\bin\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.AssemblyReference.cache
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.Form1.resources
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.Form2.resources
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.Form3.resources
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.Form4.resources
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.Form5.resources
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.Properties.Resources.resources
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.GenerateResource.cache
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.CoreCompileInputs.cache
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.exe
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\obj\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\bin\Debug\AppOpenCV.exe.config
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\bin\Debug\AppOpenCV.exe
+C:\Users\IT-1\Desktop\Проект Атамана\AppOpenCV\bin\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\AppOpenCV.exe.config
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\AppOpenCV.exe
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.AssemblyReference.cache
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.Form1.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.Form2.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.Form3.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.Form4.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.Form5.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.Properties.Resources.resources
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.GenerateResource.cache
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.CoreCompileInputs.cache
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.exe
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.pdb
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\EntityFramework.dll
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\System.Data.SQLite.dll
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\EntityFramework.xml
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\bin\Debug\System.Data.SQLite.xml
+C:\Users\IT-1\Desktop\ВячеславЗ\АААпроектНеАтамана\AppOpenCV\obj\Debug\AppOpenCV.csproj.CopyComplete
